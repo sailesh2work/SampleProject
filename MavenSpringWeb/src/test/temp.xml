@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <contacts id="2" firstname="Sharan" lastname="Patil" telephone="12131231" email="sharan@gmail.com" created="2012-06-09 15:05:17.0"/>
+  <contacts id="3" firstname="Sachin" lastname="Tendulkar" telephone="123123123" email="Sach@gmail.com" created="2012-06-09 15:06:00.0"/>
+</dataset>
